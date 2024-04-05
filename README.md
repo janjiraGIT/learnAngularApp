@@ -139,8 +139,6 @@ C:\Users\janji\Desktop\angular\hello-word
 
   ## Two-way Binding  [()] - "banana box"
     - ngModel >> hook up 
-  
-
 
 Resources:
 - Turorial > https://www.youtube.com/watch?v=CB3XOsaTEbM&list=PL82C6-O4XrHdf0LMDVl1Y-4_BFbNmdrGc&index=2
